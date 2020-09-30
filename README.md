@@ -5,6 +5,9 @@ Throughout this project, first we try to remove noises from images 1 to 4 by imp
 * Matlab > R2019b
 * Matlab Live Editor
 
+## Dataset
+You can find dataset images by either going into "images" folder of this repository or clicking [HERE!](https://github.com/pmadinei/FDO-img/tree/master/Images)
+
 # How to Use
 Use the file "Removing the Noise.mlx" to remove noises from images 1 to 4 by implementing proper filters. Utilize the file "Frequency Domain Operations.mlx" to improve details and visibility in Images 5 to 10 plus implementing Frequency Domain Operations to make old people look younger. Good Luck!
 
