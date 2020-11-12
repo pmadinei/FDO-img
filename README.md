@@ -11,7 +11,7 @@ You can find dataset images by either going into "images" folder of this reposit
 # How to Use
 Use the file "Removing the Noise.mlx" to remove noises from images 1 to 4 by implementing proper filters. Utilize the file "Frequency Domain Operations.mlx" to improve details and visibility in Images 5 to 10 plus implementing Frequency Domain Operations to make old people look younger. Good Luck!
 
-# Results
+# Result
 ## Part 1 - Removing Noises
 Pictures Bellow illustrates noisy images:
 ![Noisy](https://github.com/pmadinei/FDO-img/blob/master/Results/Noisy%20Images.png)
